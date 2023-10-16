@@ -1,20 +1,20 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: Test Test
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: test
+last_name: test
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Fan of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: Test University
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
